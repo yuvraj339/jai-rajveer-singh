@@ -26,7 +26,7 @@ npm run build
 NUXT_ADMIN_PASSWORD='…' NUXT_SESSION_SECRET='…' node .output/server/index.mjs
 ```
 
-Any Node 18+ host works (VPS, EC2, Render, Railway, Fly.io…). Content lives in
+Requires Node 20.12+ (see `.nvmrc`). Any Node host works (VPS, EC2, Render, Railway, Fly.io…). Content lives in
 `data/profile.json` and uploaded images in `data/uploads/`, so the host needs a **persistent
 disk** for admin edits to survive restarts/redeploys.
 
