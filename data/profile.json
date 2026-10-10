@@ -1,0 +1,424 @@
+{
+  "seo": {
+    "title": "Jai Rajveer Singh Shekhawat — Entrepreneur & Founder, AIT World Automation",
+    "description": "Jai Rajveer Singh Shekhawat is an Indian technology professional, entrepreneur and business leader working across IT, home automation, IoT, smart technology, industrial automation and digital transformation."
+  },
+  "brand": {
+    "short": "Jai",
+    "initial": "J"
+  },
+  "hero": {
+    "eyebrow": "✨ Hello, I'm",
+    "name": "Jai Rajveer Singh Shekhawat",
+    "role": "Technology Entrepreneur — Founder, AIT World Automation · Home Automation · IoT · Industrial Automation · Digital Transformation",
+    "lede": "Building connected technology since 2010 — from IT infrastructure at Hewlett-Packard to founding AIT Service Corporation in 2012 and growing it into AIT World Automation Pvt. Ltd., a home and industrial automation company recognised as the Best Home Automation Company in India.",
+    "photo": "/images/jai-rajveer-singh.jpeg",
+    "badges": [
+      "📍 Rajasthan & Gujarat, India",
+      "💼 Founder, AIT World Automation",
+      "🟢 Open to franchise partnerships"
+    ],
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years in technology"
+      },
+      {
+        "value": "1500+",
+        "label": "Happy clients"
+      },
+      {
+        "value": "200+",
+        "label": "Industries served"
+      },
+      {
+        "value": "2",
+        "label": "National awards in 2026"
+      }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      "Jai Rajveer Singh Shekhawat, professionally known as Jai Rajveer Singh, is an Indian technology professional, entrepreneur and business leader associated with the information technology, home automation, smart technology, IoT and digital transformation sectors.",
+      "He pursued his engineering education at the University College of Engineering and Technology, Bikaner, which gave him the technical foundation for his later work in information technology, business development and automation.",
+      "In 2012 he founded AIT Service Corporation, initially focused on IT sales, technical support and related technology services. The business later expanded into IoT, home automation, smart technology and industrial automation, and evolved into AIT World Automation Pvt. Ltd.",
+      "He is also the founder of ReportNow, a Verified Risk Intelligence Platform developed by AIT World Automation Pvt. Ltd., which is currently under development."
+    ],
+    "facts": [
+      {
+        "label": "Also known as",
+        "value": "Jai Rajveer Singh"
+      },
+      {
+        "label": "Nationality",
+        "value": "Indian"
+      },
+      {
+        "label": "Education",
+        "value": "University College of Engineering and Technology, Bikaner"
+      },
+      {
+        "label": "Profession",
+        "value": "Technology Professional, Entrepreneur, Business Leader"
+      },
+      {
+        "label": "Known for",
+        "value": "Home Automation, Smart Technology, IoT, Digital Transformation"
+      },
+      {
+        "label": "Years active",
+        "value": "2010 – present"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "period": "2014 – Present",
+      "title": "Founder · Business Development & Operations",
+      "org": "AIT Service Corporation → AIT World Automation Pvt. Ltd.",
+      "location": "Rajasthan & Gujarat, India",
+      "points": [
+        "Led technical sales, customer development, business development and business operations as the company grew.",
+        "Progressed through roles including Technical & Sales Development Executive, Business Development Manager and Area Sales Manager for Rajasthan.",
+        "Drove the transition from traditional IT services into IoT, smart technology, home automation and industrial automation.",
+        "Leads franchise and business partnership initiatives expanding AIT across Indian markets."
+      ]
+    },
+    {
+      "period": "2012",
+      "title": "Founder",
+      "org": "AIT Service Corporation",
+      "location": "India",
+      "points": [
+        "Founded the business with a focus on information technology sales, technical support and related technology services.",
+        "Laid the groundwork for what later became AIT World Automation Pvt. Ltd."
+      ]
+    },
+    {
+      "period": "2010 – 2012",
+      "title": "System Administrator",
+      "org": "Hewlett-Packard",
+      "location": "India",
+      "points": [
+        "Began his professional career working on IT infrastructure, system administration and technical support."
+      ]
+    }
+  ],
+  "ventures": [
+    {
+      "icon": "🏠",
+      "name": "AIT World Automation Pvt. Ltd.",
+      "status": "Active",
+      "tagline": "Redefine Your Comfort.",
+      "description": "Technology company for home automation, smart buildings, industrial automation and connected technology, serving residential, commercial, institutional and industrial clients.",
+      "tags": [
+        "Smart switches",
+        "Touch panels",
+        "Smart lighting",
+        "Sensors",
+        "Smart locks",
+        "Video doorbells",
+        "Smart screens",
+        "Smart curtains"
+      ],
+      "url": "https://aitworld.co.in/"
+    },
+    {
+      "icon": "🏭",
+      "name": "Industrial Automation",
+      "status": "Active",
+      "tagline": "Automation for industry & manufacturing",
+      "description": "AIT's industrial division delivers automation for industrial and manufacturing environments, from control programming to full factory modernisation.",
+      "tags": [
+        "PLC programming",
+        "SCADA programming",
+        "Robotics integration",
+        "Machine modernization",
+        "Industrial monitoring",
+        "Factory automation"
+      ],
+      "url": ""
+    },
+    {
+      "icon": "🛡️",
+      "name": "ReportNow",
+      "status": "Under development",
+      "tagline": "Verified Risk Intelligence Platform",
+      "description": "A platform being developed by AIT World Automation to provide structured incident reporting and information associated with formal records such as FIRs. It is not positioned as a replacement for official government, police or judicial records.",
+      "tags": [
+        "Rental relationships",
+        "Employment",
+        "Business transactions",
+        "Background information",
+        "Risk assessment"
+      ],
+      "url": ""
+    }
+  ],
+  "expertise": [
+    {
+      "category": "Automation",
+      "items": [
+        "Home Automation",
+        "Smart Buildings",
+        "Industrial Automation",
+        "Smart Security & Door Locks"
+      ]
+    },
+    {
+      "category": "Technology",
+      "items": [
+        "Information Technology",
+        "IoT & Connected Technology",
+        "Technology Platforms",
+        "Risk Intelligence"
+      ]
+    },
+    {
+      "category": "Business",
+      "items": [
+        "Business Development",
+        "Technical Sales",
+        "Customer Relationships",
+        "Team Leadership"
+      ]
+    },
+    {
+      "category": "Growth",
+      "items": [
+        "Digital Transformation",
+        "Technology Entrepreneurship",
+        "Franchise & Business Expansion",
+        "Market Development"
+      ]
+    }
+  ],
+  "markets": {
+    "intro": "AIT World Automation runs an experience-centre and franchise model to bring home automation and smart technology to more Indian cities.",
+    "centre": "Ahmedabad, Gujarat",
+    "cities": [
+      "Kota",
+      "Nashik",
+      "Lucknow",
+      "Hyderabad",
+      "Kochi",
+      "Vadodara",
+      "More Indian markets"
+    ]
+  },
+  "awards": [
+    {
+      "icon": "🏆",
+      "date": "2026",
+      "title": "Best Home Automation Company in India",
+      "event": "International Glory Awards 2026",
+      "description": "AIT World Automation was recognised for its home automation and smart technology work. Jai Rajveer Singh received the award on the company's behalf from actor Ajay Devgn."
+    },
+    {
+      "icon": "🔐",
+      "date": "27 Sep 2026",
+      "title": "Most Secure Smart Door Lock Award",
+      "event": "Industry award event",
+      "description": "Recognised AIT World Automation's work in smart security and smart door lock technology. Received by the company's CEO, Chandni Dey, and presented by actor Bhumika Chawla."
+    }
+  ],
+  "media": [
+    {
+      "label": "Feature",
+      "date": "September 2026",
+      "title": "Jai Rajveer Singh: Driving Innovation Through Automation and Digital Transformation",
+      "outlet": "Global Cover Story",
+      "description": "A feature on his entrepreneurial journey, AIT World Automation, automation technology, digital transformation and the company's expansion.",
+      "url": "https://globalcoverstory.com/articles/jai-rajveer-singh-driving-innovation-through-automation"
+    },
+    {
+      "label": "Podcast",
+      "date": "",
+      "title": "Home automation podcast with Sudesh Berry",
+      "outlet": "AIT World Automation",
+      "description": "A podcast featuring Bollywood actor Sudesh Berry covering home automation, product awareness and AIT's franchise programme.",
+      "url": ""
+    },
+    {
+      "label": "Profile",
+      "date": "",
+      "title": "Jai Rajveer Singh Shekhawat — biography",
+      "outlet": "WikiFlux",
+      "description": "Encyclopedia-style profile covering his career, companies, awards and media coverage.",
+      "url": "https://en.wikiflux.org/wiki/index.php/Jai_Rajveer_Singh_Shekhawat"
+    }
+  ],
+  "contact": {
+    "heading": "Let's build something smart together",
+    "text": "For home or industrial automation projects, franchise partnerships or media enquiries, reach the AIT World Automation team.",
+    "email": "sales@aitworld.co.in",
+    "phone": "+91 80621 79437",
+    "location": "A-322, Money Plant, Jagatpur Road, Gota, Ahmedabad, Gujarat 382481",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://aitworld.co.in/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://in.linkedin.com/in/jai-rajveer-singh-shekhawat-640875309"
+      },
+      {
+        "label": "Global Cover Story",
+        "url": "https://globalcoverstory.com/articles/jai-rajveer-singh-driving-innovation-through-automation"
+      }
+    ],
+    "whatsapp": "918062179437"
+  },
+  "solutions": {
+    "intro": "AIT World Automation delivers practical, cost-effective automation for homes, businesses and institutions — reliable, scalable systems that save time and reduce manual effort.",
+    "items": [
+      {
+        "icon": "🏠",
+        "title": "Home Automation",
+        "description": "Smart switching, lighting, sensors, locks and curtains controlled from one app or touch panel.",
+        "url": "https://aitworld.co.in/solutions/home-automation"
+      },
+      {
+        "icon": "🏢",
+        "title": "Office Automation",
+        "description": "Connected lighting, access and climate control for productive, efficient workplaces.",
+        "url": "https://aitworld.co.in/solutions/office-automation"
+      },
+      {
+        "icon": "🏭",
+        "title": "Factory Automation",
+        "description": "PLC & SCADA programming, robotics integration, machine modernisation and monitoring.",
+        "url": "https://aitworld.co.in/solutions/factory-automation"
+      },
+      {
+        "icon": "🏨",
+        "title": "Hotel Automation",
+        "description": "Guest-room control, smart locks and energy management for hospitality.",
+        "url": "https://aitworld.co.in/solutions/hotel-automation"
+      },
+      {
+        "icon": "🏫",
+        "title": "School Automation",
+        "description": "Automated lighting, bells, access and safety for campuses and institutions.",
+        "url": "https://aitworld.co.in/solutions/school-automation"
+      },
+      {
+        "icon": "🏥",
+        "title": "Hospital Automation",
+        "description": "Reliable automation and monitoring for healthcare facilities.",
+        "url": "https://aitworld.co.in/solutions/hospital-automation"
+      },
+      {
+        "icon": "🚧",
+        "title": "Gate Automation",
+        "description": "Automated gates with secure, remote-controlled access.",
+        "url": "https://aitworld.co.in/solutions/gate-automation"
+      },
+      {
+        "icon": "☀️",
+        "title": "Solar Panel Cleaning",
+        "description": "Automated cleaning systems that keep solar output high.",
+        "url": "https://aitworld.co.in/solutions/solar-panel-cleaning"
+      },
+      {
+        "icon": "🌱",
+        "title": "Plant Watering",
+        "description": "Scheduled, sensor-driven watering for gardens and green spaces.",
+        "url": "https://aitworld.co.in/solutions/Plant-Watering"
+      },
+      {
+        "icon": "🐾",
+        "title": "Automatic Pet Feeder",
+        "description": "Timed, app-controlled feeding for pets at home.",
+        "url": "https://aitworld.co.in/solutions/pet-feeding"
+      },
+      {
+        "icon": "🛟",
+        "title": "Women's Safety Device",
+        "description": "Connected safety device for quick alerts and peace of mind.",
+        "url": "https://aitworld.co.in/solutions/Women-Safety"
+      }
+    ]
+  },
+  "products": [
+    {
+      "name": "Smart Switching",
+      "image": "/images/products/smart-switch.webp",
+      "description": "Revolve, Aura, Azure, Elite, Glance and Elegance touch-switch ranges.",
+      "url": "https://aitworld.co.in/subproducts/smart-switching"
+    },
+    {
+      "name": "Smart Lighting",
+      "image": "/images/products/smart-lighting.webp",
+      "description": "Panel, COB, strip, magnetic and woven lights.",
+      "url": "https://aitworld.co.in/subproducts/smart-lighting"
+    },
+    {
+      "name": "Smart Sensors",
+      "image": "/images/products/sensors.webp",
+      "description": "Door, smoke, gas, motion, water-leak and presence sensors.",
+      "url": "https://aitworld.co.in/subproducts/Smart_Sensor"
+    },
+    {
+      "name": "Smart Door Lock",
+      "image": "/images/products/smart-door-lock.png",
+      "description": "Fingerprint and mobile access with premium design — award-winning security.",
+      "url": "https://aitworld.co.in/product/Smart_Door_Lock"
+    },
+    {
+      "name": "Smart Door Bell",
+      "image": "/images/products/video-doorbell.png",
+      "description": "Video doorbells with mobile alerts and two-way talk.",
+      "url": "https://aitworld.co.in/product/Smart_Door_Bell"
+    },
+    {
+      "name": "Smart Screen",
+      "image": "/images/products/smart-screen.png",
+      "description": "Wall-mounted control screens for the whole home.",
+      "url": "https://aitworld.co.in/product/smart-screen"
+    },
+    {
+      "name": "Smart Curtain",
+      "image": "/images/products/smart-curtain.png",
+      "description": "Motorised curtains on schedules, scenes or voice.",
+      "url": "https://aitworld.co.in/product/Smart_Curtain"
+    },
+    {
+      "name": "Wired Automation",
+      "image": "/images/products/wired-automation.png",
+      "description": "Robust wired automation for new builds and large sites.",
+      "url": "https://aitworld.co.in/product/Wired_Automation"
+    }
+  ],
+  "companyStats": [
+    {
+      "value": "12+",
+      "label": "Years of excellence"
+    },
+    {
+      "value": "1500+",
+      "label": "Happy clients"
+    },
+    {
+      "value": "200+",
+      "label": "Industries served"
+    },
+    {
+      "value": "11",
+      "label": "Automation verticals"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "AIT Smart Door Lock combines premium design with advanced security features. From fingerprint access to mobile control, it offers convenience, safety, and a smooth smart living experience for modern homes and offices.",
+      "name": "Ronak Patel",
+      "role": "Owner"
+    },
+    {
+      "quote": "AIT Smart Camera delivers crystal-clear video quality, fast motion detection, and smooth mobile access. Easy to install and reliable for both home and office security, it gives complete peace of mind.",
+      "name": "Paras Tanna",
+      "role": "Director"
+    }
+  ]
+}

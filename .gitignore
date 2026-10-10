@@ -1,0 +1,9 @@
+node_modules
+.nuxt
+.output
+.data
+.env
+dist
+data/uploads/*
+!data/uploads/.gitkeep
+.DS_Store
