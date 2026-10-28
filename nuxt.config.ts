@@ -3,9 +3,10 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   css: ['~/assets/css/main.css'],
   runtimeConfig: {
-    // Override with NUXT_ADMIN_PASSWORD / NUXT_SESSION_SECRET in production
-    adminPassword: 'change-me',
-    sessionSecret: 'dev-session-secret-change-me',
+    // Amplify exposes these values during the build; include them in the
+    // server-only runtime config so Nitro's SSR handler can use them.
+    adminPassword: process.env.NUXT_ADMIN_PASSWORD || 'change-me',
+    sessionSecret: process.env.NUXT_SESSION_SECRET || 'dev-session-secret-change-me',
   },
   nitro: {
     storage: {
